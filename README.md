@@ -1,4 +1,8 @@
-# NutriSight
+# NutriSight (Reference Repository)
+
+![DRG4FOOD](https://img.shields.io/badge/DRG4FOOD-project-green)
+![Status](https://img.shields.io/badge/status-reference-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-brightgreen)
 
 NutriSight is a DRG4FOOD-funded project (Open Call #2), developed by Open Food Facts and El CoCo and carried out from **April 2024 to April 2025**.  
 It delivers an open, multilingual AI model for automatically extracting nutrition values from photos of food packaging, helping to accelerate the enrichment of the global Open Food Facts database.
